@@ -1,7 +1,7 @@
 <br>
-
+<p align="center">
 ![Imgur](https://i.imgur.com/mr1GxV9m.png)
-
+</p>
 <br>
 
 
