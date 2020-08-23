@@ -1,15 +1,4 @@
-___
-
-<br>
-
-![Imgur](http://i.imgur.com/UnPy2w0.png)
+[Imgur](https://i.imgur.com/kBWttDy.png)
 
 
-<br>
-
-<br>
-
-___
-
-
-<br>
+StudyNest is a web-based social application that enables students to find synergistic “study buddies” to help cure isolation and increase productivity.
