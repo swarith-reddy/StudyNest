@@ -12,6 +12,14 @@ StudyNest is a web-based social application that enables students to find synerg
 <br> 
 
 
+___
+
+<br>
+
 Copyright &copy;. &nbsp; All Rights Reserved. &nbsp; _**StudyNest**_
+
+<br>
+
+___
 
 
