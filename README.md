@@ -1,6 +1,6 @@
 <br>
 
-![Imgur](https://i.imgur.com/kBWttDyt.png)
+![Imgur](https://i.imgur.com/kBWttDyl.png)
 
 <br>
 
