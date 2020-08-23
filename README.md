@@ -15,3 +15,18 @@ ___
 <br> 
 
 ___
+
+
+<br>
+
+<br>
+
+____
+
+<br>
+
+Copyright &copy;. &nbsp; All Rights Reserved. &nbsp; _**StudyNest**_
+
+<br>
+
+____
